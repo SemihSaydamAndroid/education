@@ -23,5 +23,6 @@ public class LoginPageTest {
     @Test
     public void loginTest() {
         loginPage.login("semihsaydamz@gmail.com", "123qweasd");
+        //
     }
 }
