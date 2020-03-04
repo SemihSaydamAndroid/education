@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="023c3e78-0790-43e3-9e3c-8c3cf83c4bd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/garantibbva/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/garantibbva/constants/ConstantsLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/garantibbva/page/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/garantibbva/page/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/garantibbva/test/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/garantibbva/test/LoginPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,6 +143,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="445" y="175" key="#com.intellij.ide.util.MemberChooser" timestamp="1583322337948">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="445" y="175" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1583322337948" />
     <state x="740" y="249" key="FileChooserDialogImpl" timestamp="1583307719521">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
